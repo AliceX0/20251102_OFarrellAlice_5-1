@@ -13,4 +13,3 @@ while j < k:
 #Each time the inner loop runs Hello is printed.
 #Once the condition of the inner loop is false, the outer loop increments j by 1.
 #The outer loop has no output of its own.
-
